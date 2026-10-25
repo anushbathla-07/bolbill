@@ -1,0 +1,12 @@
+{
+  "name": "bolbill",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "serve -l 3000 .",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
